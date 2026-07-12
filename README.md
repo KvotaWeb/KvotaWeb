@@ -26,12 +26,19 @@ It's almost exactly like the original, but runs directly in your browser - no Ja
 
 That's it!
 
+## 👨‍💻 Developers
+<img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> **Art1kDev**  
+<img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> **Nerolocker**  
+<img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> **Mezoik**  
+<img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> **Midga3**  
+<img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> **Nestor**  
+
 **Gratitude:**
 A huge shoutout to my friends: 
-- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" align="absmiddle"> SnowSans098
-- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" align="absmiddle"> VladNaliv 
-- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" align="absmiddle"> N.Software
-- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" align="absmiddle"> Mezoik
+- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> SnowSans098
+- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> VladNaliv 
+- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> N.Software
+- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> Mezoik
 
 **Support the Project:**
 I'd really appreciate it if you could tell your friends and acquaintances about my project! 
