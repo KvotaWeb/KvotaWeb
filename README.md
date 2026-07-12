@@ -1,16 +1,47 @@
-# KvotaWeb [![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=flat-square)](https://discord.gg/2tneAE4J) [![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=flat-square)](https://t.me/KvotaWeb) [![Website](https://img.shields.io/badge/Website-Play-FF7139?style=flat-square)](https://art1kdev.com/kvotaweb/)
+# KvotaWeb
 
-<img width="800" height="600" alt="KvotaWeb Preview" src="https://github.com/Artik9nx/KvotaWeb/blob/main/Res/Screenshot.png" />
+[![Page](https://img.shields.io/badge/Website-art1kdev.com/kvotaweb-0066ff?style=flat-square)](https://art1kdev.com/kvotaweb/)
+[![Download](https://img.shields.io/badge/Download-Source%20ZIP-00aa00?style=flat-square)](https://github.com/Artik9nx/KvotaWeb/archive/refs/heads/main.zip)
+[![Stars](https://img.shields.io/github/stars/Artik9nx/KvotaWeb?style=flat-square)](https://github.com/Artik9nx/KvotaWeb/stargazers)
 
-## requires a modern browser with JavaScript enabled
-### (no additional installations, plugins or build tools required)
+<img width="800" height="600" alt="KvotaWeb - Minecraft 4k Web Port" src="https://github.com/Artik9nx/KvotaWeb/blob/main/Res/Screenshot.png">
 
-**To play online:**
 
-Simply open [art1kdev.com/kvotaweb](https://art1kdev.com/kvotaweb/) in your browser. The game will load automatically.
+A faithful web port of the original Minecraft 4k Java Applet. 
 
-**To run locally:**
+Rewritten from scratch in JavaScript and HTML5. No Java required. 
 
-Download the latest release from the [Releases](https://github.com/Artik9nx/KvotaWeb/releases) page, extract the archive, and open `index.html` in any modern browser. Alternatively, serve it locally:
+
+## Play it now
+
+You can play it right now, in your browser: 
+
+[https://art1kdev.com/kvotaweb/](https://art1kdev.com/kvotaweb/)
+
+
+## Requirements
+
+Literally nothing. 
+
+Just a modern web browser with HTML5 Canvas support. 
+
+(Chrome, Firefox, Edge, Brave, Opera, Safari. Anything from ~2015 onward)
+
+
+## Download & Run Locally
+
+There's no build step. It's pure HTML + JavaScript. 
+
+**Option 1: Download ZIP**
+
+1. Download the latest source: [KvotaWeb-main.zip](https://github.com/Artik9nx/KvotaWeb/archive/refs/heads/main.zip)
+2. Extract it
+3. Open `index.html` in your web browser
+
+That's it. 
+
+**Option 2: Clone from Git**
+
 ```bash
-python -m http.server 8080
+git clone https://github.com/Artik9nx/KvotaWeb.git
+cd KvotaWeb
