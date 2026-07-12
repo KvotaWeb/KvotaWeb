@@ -1,34 +1,33 @@
-# KvotaWeb
-### A Modern Web Port of the Classic Minecraft 4k Applet
+# KvotaWeb — Minecraft 4k Port
 
-[ Website ](https://art1kdev.com/kvotaweb/) | [ Discord Server ](https://discord.gg/2tneAE4J) | [ Telegram Channel ](https://t.me/KvotaWeb)
-
----
-
-![KvotaWeb Screenshot](https://github.com/Artik9nx/KvotaWeb/blob/main/Res/Screenshot.png)
-
-### [!] Overview
-I am a beginning developer dedicated to porting classic games. **KvotaWeb** is my restoration of the original **Minecraft 4k** Java Applet. 
-
-Instead of relying on outdated Java plugins, this project has been completely rewritten using:
-* **HTML5** (Canvas/Structure)
-* **Vanilla JavaScript** (Game Logic & Rendering)
-
-The goal is to achieve 100% accuracy compared to the original 2009 Notch applet, making it easily accessible from any browser.
-
-### [+] Credits & Acknowledgments
-This project wouldn't be where it is without the help and support of my friends:
-
-- `SnowSans098`
-- `VladNaliv`
-- `N.Software`
-- `Mezoik`
-
-### [*] Supporting the Project
-Since this is my first major project, spreading the word is the best support you can provide!
-
-> **Did you like the port?**  
-> Please consider leaving a **Star (⭐)** on this repository and sharing the [Website Link](https://art1kdev.com/kvotaweb/) with your friends!
+<p>
+  <a href="https://art1kdev.com/kvotaweb/">
+    <img src="https://raw.githubusercontent.com/tmedna/retro-icons/main/icons/world.png" width="16" height="16"> <b>Открыть Сайт (Играть)</b>
+  </a> &nbsp;|&nbsp; 
+  <a href="https://github.com/Artik9nx/KvotaWeb/archive/refs/heads/main.zip">
+    <img src="https://raw.githubusercontent.com/tmedna/retro-icons/main/icons/disk.png" width="16" height="16"> <b>Скачать исходники</b>
+  </a> &nbsp;|&nbsp; 
+  <a href="https://discord.gg/2tneAE4J">
+    <img src="https://raw.githubusercontent.://tmedna/retro-icons/main/icons/group.png" width="16" height="16"> <b>Discord</b>
+  </a> &nbsp;|&nbsp; 
+  <a href="https://t.me/KvotaWeb">
+    <img src="https://raw.githubusercontent.com/tmedna/retro-icons/main/icons/comment.png" width="16" height="16"> <b>Telegram</b>
+  </a>
+</p>
 
 ---
-`Version: 1.0` • `License: MIT / Educational Port`
+
+![Screenshot](https://github.com/Artik9nx/KvotaWeb/blob/main/Res/Screenshot.png)
+
+### [ i ] Информация о проекте
+**KvotaWeb** — это точная копия легендарного **Minecraft 4k** (Java Applet), перенесенная на технологии **HTML5** и **JavaScript**. Теперь игра запускается прямо в браузере без установки старых Java-плагинов!
+
+### [ + ] Благодарности
+Огромное спасибо друзьям за помощь с проектом:
+* `SnowSans098` — тесты и поддержка
+* `VladNaliv` — идеи и фидбек
+* `N.Software` — технические советы
+* `Mezoik` — мотивация
+
+### [ ♥ ] Поддержка
+Если вам понравился этот ретро-порт, пожалуйста, поставьте **Star (⭐)** этому репозиторию и расскажите друзьям!
