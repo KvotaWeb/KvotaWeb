@@ -38,7 +38,7 @@ A huge shoutout to my friends:
 - <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> SnowSans098
 - <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> VladNaliv 
 - <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> N.Software
-- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> Mezoik
+- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> Qeq
 
 **Support the Project:**
 I'd really appreciate it if you could tell your friends and acquaintances about my project! 
