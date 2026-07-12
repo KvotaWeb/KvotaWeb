@@ -9,11 +9,11 @@
 
 <img width="800" alt="Project Preview" src="https://raw.githubusercontent.com/Artik9nx/KvotaWeb/main/Res/Screenshot.png">
 
-Hello! I'm a beginner developer creating Minecraft ports. 
+Hello! I'm a beginner developer creating Minecraft ports. I (Art1kDev) started this project alone, but it quickly evolved into a large-scale initiative with multiple game ports. 
 
 I rebuilt the original **Minecraft 4k** Java Applet (Markus "Notch" Persson's 2009 Java 4K Game Programming Contest entry, the direct ancestor of Minecraft Classic) in **JavaScript** and **HTML**. 
 
-<img src="https://cdn.jsdelivr.net/gh/famfamfam/silk@master/icons/package.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> **Already ported:** Minecraft RD-132211 → 0.0.17a + other Notch 4K games
+<svg width="16" height="16" style="vertical-align:middle;margin-right:4px;border:0" viewBox="0 0 16 16"><path d="M2 4l6-3 6 3v6l-6 3-6-3V4zm6 0l5 2.5-5 2.5-5-2.5L8 4z" fill="#4A90E2" stroke="#fff" stroke-width="0.5"/></svg> **Already ported:** Minecraft RD-132211 → 0.0.17a + other Notch 4K games
 
 It's almost exactly like the original, but runs directly in your browser - no Java required! 
 
@@ -29,18 +29,18 @@ It's almost exactly like the original, but runs directly in your browser - no Ja
 That's it!
 
 ## 👨‍💻 Developers
-<img src="https://cdn.jsdelivr.net/gh/famfamfam/silk@master/icons/user.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> **Art1kDev**  
-<img src="https://cdn.jsdelivr.net/gh/famfamfam/silk@master/icons/user.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> **Nerolocker**  
-<img src="https://cdn.jsdelivr.net/gh/famfamfam/silk@master/icons/user.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> **Mezoik**  
-<img src="https://cdn.jsdelivr.net/gh/famfamfam/silk@master/icons/user.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> **Midga3**  
-<img src="https://cdn.jsdelivr.net/gh/famfamfam/silk@master/icons/user.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> **Nestor**  
+<svg width="16" height="16" style="vertical-align:middle;margin-right:4px;border:0" viewBox="0 0 16 16"><path d="M8 3a3 3 0 100 6 3 3 0 000-6zm0 7c-3.3 0-6 1.8-6 4v2h12v-2c0-2.2-2.7-4-6-4z" fill="#4A90E2"/></svg> **Art1kDev**  
+<svg width="16" height="16" style="vertical-align:middle;margin-right:4px;border:0" viewBox="0 0 16 16"><path d="M8 3a3 3 0 100 6 3 3 0 000-6zm0 7c-3.3 0-6 1.8-6 4v2h12v-2c0-2.2-2.7-4-6-4z" fill="#4A90E2"/></svg> **Nerolocker**  
+<svg width="16" height="16" style="vertical-align:middle;margin-right:4px;border:0" viewBox="0 0 16 16"><path d="M8 3a3 3 0 100 6 3 3 0 000-6zm0 7c-3.3 0-6 1.8-6 4v2h12v-2c0-2.2-2.7-4-6-4z" fill="#4A90E2"/></svg> **Mezoik**  
+<svg width="16" height="16" style="vertical-align:middle;margin-right:4px;border:0" viewBox="0 0 16 16"><path d="M8 3a3 3 0 100 6 3 3 0 000-6zm0 7c-3.3 0-6 1.8-6 4v2h12v-2c0-2.2-2.7-4-6-4z" fill="#4A90E2"/></svg> **Midga3**  
+<svg width="16" height="16" style="vertical-align:middle;margin-right:4px;border:0" viewBox="0 0 16 16"><path d="M8 3a3 3 0 100 6 3 3 0 000-6zm0 7c-3.3 0-6 1.8-6 4v2h12v-2c0-2.2-2.7-4-6-4z" fill="#4A90E2"/></svg> **Nestor**  
 
 **Gratitude:**
 A huge shoutout to my friends: 
-- <img src="https://cdn.jsdelivr.net/gh/famfamfam/silk@master/icons/user.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> SnowSans098
-- <img src="https://cdn.jsdelivr.net/gh/famfamfam/silk@master/icons/user.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> VladNaliv 
-- <img src="https://cdn.jsdelivr.net/gh/famfamfam/silk@master/icons/user.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> N.Software
-- <img src="https://cdn.jsdelivr.net/gh/famfamfam/silk@master/icons/user.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> Mezoik
+- <svg width="16" height="16" style="vertical-align:middle;margin-right:4px;border:0" viewBox="0 0 16 16"><path d="M8 3a3 3 0 100 6 3 3 0 000-6zm0 7c-3.3 0-6 1.8-6 4v2h12v-2c0-2.2-2.7-4-6-4z" fill="#4A90E2"/></svg> SnowSans098
+- <svg width="16" height="16" style="vertical-align:middle;margin-right:4px;border:0" viewBox="0 0 16 16"><path d="M8 3a3 3 0 100 6 3 3 0 000-6zm0 7c-3.3 0-6 1.8-6 4v2h12v-2c0-2.2-2.7-4-6-4z" fill="#4A90E2"/></svg> VladNaliv 
+- <svg width="16" height="16" style="vertical-align:middle;margin-right:4px;border:0" viewBox="0 0 16 16"><path d="M8 3a3 3 0 100 6 3 3 0 000-6zm0 7c-3.3 0-6 1.8-6 4v2h12v-2c0-2.2-2.7-4-6-4z" fill="#4A90E2"/></svg> N.Software
+- <svg width="16" height="16" style="vertical-align:middle;margin-right:4px;border:0" viewBox="0 0 16 16"><path d="M8 3a3 3 0 100 6 3 3 0 000-6zm0 7c-3.3 0-6 1.8-6 4v2h12v-2c0-2.2-2.7-4-6-4z" fill="#4A90E2"/></svg> Mezoik
 
 **Support the Project:**
 I'd really appreciate it if you could tell your friends and acquaintances about my project! 
