@@ -13,6 +13,8 @@ Hello! I'm a beginner developer creating Minecraft ports.
 
 I rebuilt the original **Minecraft 4k** Java Applet (Markus "Notch" Persson's 2009 Java 4K Game Programming Contest entry, the direct ancestor of Minecraft Classic) in **JavaScript** and **HTML**. 
 
+<img src="https://cdn.jsdelivr.net/gh/davidjbradshaw/famfamfam@master/silk/icons/package.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> **Already ported:** Minecraft RD-132211 → 0.0.17a + other Notch 4K games
+
 It's almost exactly like the original, but runs directly in your browser - no Java required! 
 
 **Play it now:** [https://art1kdev.com/Minecraft4k.html](https://art1kdev.com/Minecraft4k.html)
@@ -27,18 +29,18 @@ It's almost exactly like the original, but runs directly in your browser - no Ja
 That's it!
 
 ## 👨‍💻 Developers
-<img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> **Art1kDev**  
-<img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> **Nerolocker**  
-<img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> **Mezoik**  
-<img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> **Midga3**  
-<img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> **Nestor**  
+<img src="https://cdn.jsdelivr.net/gh/davidjbradshaw/famfamfam@master/silk/icons/user.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> **Art1kDev**  
+<img src="https://cdn.jsdelivr.net/gh/davidjbradshaw/famfamfam@master/silk/icons/user.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> **Nerolocker**  
+<img src="https://cdn.jsdelivr.net/gh/davidjbradshaw/famfamfam@master/silk/icons/user.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> **Mezoik**  
+<img src="https://cdn.jsdelivr.net/gh/davidjbradshaw/famfamfam@master/silk/icons/user.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> **Midga3**  
+<img src="https://cdn.jsdelivr.net/gh/davidjbradshaw/famfamfam@master/silk/icons/user.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> **Nestor**  
 
 **Gratitude:**
 A huge shoutout to my friends: 
-- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> SnowSans098
-- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> VladNaliv 
-- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> N.Software
-- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> Mezoik
+- <img src="https://cdn.jsdelivr.net/gh/davidjbradshaw/famfamfam@master/silk/icons/user.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> SnowSans098
+- <img src="https://cdn.jsdelivr.net/gh/davidjbradshaw/famfamfam@master/silk/icons/user.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> VladNaliv 
+- <img src="https://cdn.jsdelivr.net/gh/davidjbradshaw/famfamfam@master/silk/icons/user.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> N.Software
+- <img src="https://cdn.jsdelivr.net/gh/davidjbradshaw/famfamfam@master/silk/icons/user.png" style="vertical-align: middle; margin-right: 4px; border: 0;" width="16" height="16"> Mezoik
 
 **Support the Project:**
 I'd really appreciate it if you could tell your friends and acquaintances about my project! 
