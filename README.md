@@ -1,33 +1,16 @@
-# KvotaWeb — Minecraft 4k Port
+# KvotaWeb [![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=flat-square)](https://discord.gg/2tneAE4J) [![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=flat-square)](https://t.me/KvotaWeb) [![Website](https://img.shields.io/badge/Website-Play-FF7139?style=flat-square)](https://art1kdev.com/kvotaweb/)
 
-<p>
-  <a href="https://art1kdev.com/kvotaweb/">
-    <img src="https://raw.githubusercontent.com/tmedna/retro-icons/main/icons/world.png" width="16" height="16"> <b>Открыть Сайт (Играть)</b>
-  </a> &nbsp;|&nbsp; 
-  <a href="https://github.com/Artik9nx/KvotaWeb/archive/refs/heads/main.zip">
-    <img src="https://raw.githubusercontent.com/tmedna/retro-icons/main/icons/disk.png" width="16" height="16"> <b>Скачать исходники</b>
-  </a> &nbsp;|&nbsp; 
-  <a href="https://discord.gg/2tneAE4J">
-    <img src="https://raw.githubusercontent.://tmedna/retro-icons/main/icons/group.png" width="16" height="16"> <b>Discord</b>
-  </a> &nbsp;|&nbsp; 
-  <a href="https://t.me/KvotaWeb">
-    <img src="https://raw.githubusercontent.com/tmedna/retro-icons/main/icons/comment.png" width="16" height="16"> <b>Telegram</b>
-  </a>
-</p>
+<img width="800" height="600" alt="KvotaWeb Preview" src="https://github.com/Artik9nx/KvotaWeb/blob/main/Res/Screenshot.png" />
 
----
+## requires a modern browser with JavaScript enabled
+### (no additional installations, plugins or build tools required)
 
-![Screenshot](https://github.com/Artik9nx/KvotaWeb/blob/main/Res/Screenshot.png)
+**To play online:**
 
-### [ i ] Информация о проекте
-**KvotaWeb** — это точная копия легендарного **Minecraft 4k** (Java Applet), перенесенная на технологии **HTML5** и **JavaScript**. Теперь игра запускается прямо в браузере без установки старых Java-плагинов!
+Simply open [art1kdev.com/kvotaweb](https://art1kdev.com/kvotaweb/) in your browser. The game will load automatically.
 
-### [ + ] Благодарности
-Огромное спасибо друзьям за помощь с проектом:
-* `SnowSans098` — тесты и поддержка
-* `VladNaliv` — идеи и фидбек
-* `N.Software` — технические советы
-* `Mezoik` — мотивация
+**To run locally:**
 
-### [ ♥ ] Поддержка
-Если вам понравился этот ретро-порт, пожалуйста, поставьте **Star (⭐)** этому репозиторию и расскажите друзьям!
+Download the latest release from the [Releases](https://github.com/Artik9nx/KvotaWeb/releases) page, extract the archive, and open `index.html` in any modern browser. Alternatively, serve it locally:
+```bash
+python -m http.server 8080
