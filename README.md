@@ -4,7 +4,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/2tneAE4J)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/KvotaWeb)
-[![Website](https://img.shields.io/badge/Website-Page-FF7139?style=for-the-badge&logo=firefoxbrowser)](http://art1kdev.github.io/kvotaweb/)
+[![Website](https://img.shields.io/badge/Website-Page-FF7139?style=for-the-badge&logo=firefoxbrowser)](art1kdev.com/kvotaweb/)
 
 ---
 
