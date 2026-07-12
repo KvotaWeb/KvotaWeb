@@ -13,13 +13,13 @@ I rebuilt the original **Minecraft 4k** Java Applet (Markus "Notch" Persson's 20
 
 It's almost exactly like the original, but runs directly in your browser - no Java required! 
 
-**Play it now:** [https://art1kdev.com/index.html](https://art1kdev.com/index.html)
+**Play it now:** [https://art1kdev.com/Minecraft4k.html](https://art1kdev.com/Minecraft4k.html)
 
 **Requirements:** Any modern web browser with HTML5 Canvas support.
 
 **Run locally:**
 
-1. Download the [Source ZIP](https://github.com/Artik9nx/KvotaWeb/archive/refs/heads/main.zip)
+1. Download the [Source ZIP](https://github.com/KvotaWeb/KvotaWeb/archive/refs/heads/main.zip)
 2. Extract it
 3. Open `index.html` in your web browser
 
