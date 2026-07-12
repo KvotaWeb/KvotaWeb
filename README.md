@@ -1,11 +1,13 @@
 # KvotaWeb
 
-[![Website](https://img.shields.io/badge/Website-art1kdev.com%2Findex.html-0066ff?style=flat-square)](https://art1kdev.com/index.html)
-[![Download](https://img.shields.io/badge/Download-Source%20ZIP-00aa00?style=flat-square)](https://github.com/Artik9nx/KvotaWeb/archive/refs/heads/main.zip)
-[![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=flat-square)](https://discord.gg/2tneAE4J)
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=flat-square)](https://t.me/KvotaWeb)
+<p align="center">
+  <a href="https://art1kdev.com/index.html"><img src="https://img.shields.io/badge/Website-art1kdev.com-0066ff?style=plastic&logo=firefox&logoColor=white" alt="Website"></a>
+  <a href="https://github.com/Artik9nx/KvotaWeb/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download-Source%20ZIP-00aa00?style=plastic&logo=github" alt="Download"></a>
+  <a href="https://discord.gg/2tneAE4J"><img src="https://img.shields.io/badge/Discord-Server-5865F2?style=plastic&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://t.me/KvotaWeb"><img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=plastic&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
 
-![Project Preview](https://github.com/Artik9nx/KvotaWeb/blob/main/Res/Screenshot.png)
+<img width="800" alt="Project Preview" src="https://raw.githubusercontent.com/Artik9nx/KvotaWeb/main/Res/Screenshot.png">
 
 Hello! I'm a beginner developer creating Minecraft ports. 
 
@@ -18,24 +20,20 @@ It's almost exactly like the original, but runs directly in your browser - no Ja
 **Requirements:** Any modern web browser with HTML5 Canvas support.
 
 **Run locally:**
-
-1. Download the [Source ZIP](https://github.com/KvotaWeb/KvotaWeb/archive/refs/heads/main.zip)
+1. Download the [Source ZIP](https://github.com/Artik9nx/KvotaWeb/archive/refs/heads/main.zip)
 2. Extract it
 3. Open `index.html` in your web browser
 
 That's it!
 
 **Gratitude:**
-
 A huge shoutout to my friends: 
-
-- SnowSans098
-- VladNaliv 
-- N.Software
-- Mezoik
+- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" align="absmiddle"> SnowSans098
+- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" align="absmiddle"> VladNaliv 
+- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" align="absmiddle"> N.Software
+- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" align="absmiddle"> Mezoik
 
 **Support the Project:**
-
 I'd really appreciate it if you could tell your friends and acquaintances about my project! 
 
-Don't forget to star the repository if you like it!
+⭐ Don't forget to star the repository if you like it!
