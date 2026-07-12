@@ -1,20 +1,13 @@
 # KvotaWeb
 
-<p>
-<a href="https://art1kdev.com/Minecraft4k.html">
-<img src="https://cyber.dabamos.de/88x31/now.gif" width="88" height="31" border="0" alt="Play Now!"></a>
-
-<a href="https://github.com/KvotaWeb/KvotaWeb/archive/refs/heads/main.zip">
-<img src="https://cyber.dabamos.de/88x31/get.gif" width="88" height="31" border="0" alt="Download Source ZIP"></a>
-
-<a href="https://discord.gg/2tneAE4J">
-<img src="https://cyber.dabamos.de/88x31/discord2.gif" width="88" height="31" border="0" alt="Discord Server"></a>
-
-<a href="https://t.me/KvotaWeb">
-<img src="https://cyber.dabamos.de/88x31/tgbutton.gif" width="88" height="31" border="0" alt="Telegram Channel"></a>
+<p align="center">
+  <a href="https://art1kdev.com/index.html"><img src="https://img.shields.io/badge/Website-art1kdev.com-0066ff?style=plastic&logo=firefox&logoColor=white" alt="Website"></a>
+  <a href="https://github.com/Artik9nx/KvotaWeb/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download-Source%20ZIP-00aa00?style=plastic&logo=github" alt="Download"></a>
+  <a href="https://discord.gg/2tneAE4J"><img src="https://img.shields.io/badge/Discord-Server-5865F2?style=plastic&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://t.me/KvotaWeb"><img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=plastic&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
-<img width="800" height="600" alt="Project Preview" src="https://github.com/KvotaWeb/KvotaWeb/blob/main/Res/Screenshot.png">
+<img width="800" alt="Project Preview" src="https://raw.githubusercontent.com/Artik9nx/KvotaWeb/main/Res/Screenshot.png">
 
 Hello! I'm a beginner developer creating Minecraft ports. 
 
@@ -27,45 +20,27 @@ It's almost exactly like the original, but runs directly in your browser - no Ja
 **Requirements:** Any modern web browser with HTML5 Canvas support.
 
 **Run locally:**
-
-1. Download the [Source ZIP](https://github.com/KvotaWeb/KvotaWeb/archive/refs/heads/main.zip)
+1. Download the [Source ZIP](https://github.com/Artik9nx/KvotaWeb/archive/refs/heads/main.zip)
 2. Extract it
 3. Open `index.html` in your web browser
 
 That's it!
 
-**Developers:**
-
-<p>
-<a href="https://github.com/Artik9nx">
-<img src="https://88x31.kate.pet/?text=Art1kDev&bg=0066ff&fg=ffffff" width="88" height="31" border="0" alt="Art1kDev"></a>
-
-<a href="https://github.com/Nerolocker">
-<img src="https://88x31.kate.pet/?text=Nerolocker&bg=000000&fg=00ff00" width="88" height="31" border="0" alt="Nerolocker"></a>
-
-<a href="https://github.com/Mezoik">
-<img src="https://88x31.kate.pet/?text=Mezoik&bg=006600&fg=ffffff" width="88" height="31" border="0" alt="Mezoik"></a>
-
-<a href="https://github.com/Midga3">
-<img src="https://88x31.kate.pet/?text=Midga3&bg=6600cc&fg=ffffff" width="88" height="31" border="0" alt="Midga3"></a>
-
-<a href="https://github.com/Nestor">
-<img src="https://88x31.kate.pet/?text=Nestor&bg=990000&fg=ffffff" width="88" height="31" border="0" alt="Nestor"></a>
-</p>
-
+## 👨‍💻 Developers
+<img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> **Art1kDev**  
+<img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> **Nerolocker**  
+<img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> **Mezoik**  
+<img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> **Midga3**  
+<img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> **Nestor**  
 
 **Gratitude:**
-
 A huge shoutout to my friends: 
-
-- SnowSans098
-- VladNaliv 
-- N.Software
-- Mezoik
-
+- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> SnowSans098
+- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> VladNaliv 
+- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> N.Software
+- <img src="https://img.icons8.com/color/16/000000/user-male-circle.png" style="vertical-align: middle; margin-right: 4px;"> Mezoik
 
 **Support the Project:**
-
 I'd really appreciate it if you could tell your friends and acquaintances about my project! 
 
-Don't forget to star the repository if you like it!
+⭐ Don't forget to star the repository if you like it!
