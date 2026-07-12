@@ -1,34 +1,34 @@
-# 🎮 KvotaWeb
+# KvotaWeb
+### A Modern Web Port of the Classic Minecraft 4k Applet
 
-## 🔗 Links
-
-[![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/2tneAE4J)
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/KvotaWeb)
-[![Website](https://img.shields.io/badge/Website-Page-FF7139?style=for-the-badge&logo=firefoxbrowser)](art1kdev.com/kvotaweb/)
+[ Website ](https://art1kdev.com/kvotaweb/) | [ Discord Server ](https://discord.gg/2tneAE4J) | [ Telegram Channel ](https://t.me/KvotaWeb)
 
 ---
 
-Hello! I'm a beginner developer creating Minecraft ports. I'm just starting out, so please don't be too critical ✨
+![KvotaWeb Screenshot](https://github.com/Artik9nx/KvotaWeb/blob/main/Res/Screenshot.png)
 
-![Project Preview](https://github.com/Artik9nx/KvotaWeb/blob/main/Res/Screenshot.png)
+### [!] Overview
+I am a beginning developer dedicated to porting classic games. **KvotaWeb** is my restoration of the original **Minecraft 4k** Java Applet. 
 
-## 🚀 About the Project
+Instead of relying on outdated Java plugins, this project has been completely rewritten using:
+* **HTML5** (Canvas/Structure)
+* **Vanilla JavaScript** (Game Logic & Rendering)
 
-This project is still pretty new, so I'm putting a lot of work into it 💪 I recently rebuilt Minecraft 4k Web, and now it's almost exactly like the original, but instead of a JavaApplet, it's implemented in **JavaScript** and **HTML** ✅
+The goal is to achieve 100% accuracy compared to the original 2009 Notch applet, making it easily accessible from any browser.
 
-## 🙏 Gratitude
+### [+] Credits & Acknowledgments
+This project wouldn't be where it is without the help and support of my friends:
 
-I wanted to give a huge shoutout to my friends:
+- `SnowSans098`
+- `VladNaliv`
+- `N.Software`
+- `Mezoik`
 
-- 🎯 SnowSans098
-- 🎯 VladNaliv 
-- 🎯 N.Software
-- 🎯 Mezoik
+### [*] Supporting the Project
+Since this is my first major project, spreading the word is the best support you can provide!
 
-## 💫 Support the Project
-
-I'd really appreciate it if you could tell your friends and acquaintances about my project! 📣
+> **Did you like the port?**  
+> Please consider leaving a **Star (⭐)** on this repository and sharing the [Website Link](https://art1kdev.com/kvotaweb/) with your friends!
 
 ---
-
-⭐ **Don't forget to star the repository if you like the project!**
+`Version: 1.0` • `License: MIT / Educational Port`
