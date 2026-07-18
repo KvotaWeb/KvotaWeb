@@ -24,9 +24,10 @@ It's almost exactly like the original, but runs directly in your browser - no Ja
 **Requirements:** Any modern web browser with HTML5 Canvas support.
 
 **Run locally:**
-1. Download the [Source ZIP](https://github.com/Artik9nx/KvotaWeb/archive/refs/heads/main.zip)
+1. Download the [Source ZIP](https://github.com/KvotaWeb/KvotaWeb/archive/refs/heads/main.zip)
 2. Extract it
-3. Open `index.html` in your web browser
+3. Run "local_start.py"
+4. Open `index.html` in your web browser
 
 That's it!
 
